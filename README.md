@@ -1,10 +1,10 @@
-I.	PROJECT OVERVIEW
+## I.	PROJECT OVERVIEW
 
 The use of Banking Management System is to help in improving and enhancing banking activities, reduce cost and avoid errors. It has significance with the problems of coping with a high level of financial transactions, customer accounts, and following regulatory requirements.
 
 The main purpose of the BMS is to enable the effective functioning of banking services, rendering of quality services and support decision-making. Thus, it optimizes manual errors and operating expense; customers can obtain banking services effectively and promptly with data centralized and secured. This goes well with the organizational goals of developing reliable financial products while boosting organizational productivity.
 
-•	Included Features:
+# Included Features:
 
    o	Customer Management: Responsible for customers’ data, including their personal data, account data and history.
    
@@ -12,7 +12,7 @@ The main purpose of the BMS is to enable the effective functioning of banking se
    
    o	Transaction Management: Avails services like deposits and withdrawal transactions.
    
-•	Excluded Features:
+# Excluded Features:
    
    o	It means that the system cannot address physical branch facilities or physical interface with customer services.
    
@@ -20,7 +20,7 @@ The main purpose of the BMS is to enable the effective functioning of banking se
    
    o	It is not necessary to include loan management functions; frequently, it is managed by other software.
    
-Target Users											     
+# Target Users											     
 The intended audience for a banking management system includes:  
 
 •	Bank Employees: Employees including tellers, customer service attendants, and branch managers who work with and need to access customers’ information and transaction tools.
@@ -29,7 +29,7 @@ The intended audience for a banking management system includes:
 
 •	Customers: Self-service operations such as applying for a new account or checking the balance through the internet banking system.
 
-II.	SUSTAINABLE DEVELOPMENT GOALS
+## II.	SUSTAINABLE DEVELOPMENT GOALS
 
 Including SDGs into the framework of a banking management system increases cooperation between a bank’s actions and global goals in environmental, social, and governance categories. Below are the key SDGs and how they can be applied in a banking context:
 
